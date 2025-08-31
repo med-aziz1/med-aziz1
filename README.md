@@ -5,9 +5,9 @@
   <p align="left">
       <img src="https://komarev.com/ghpvc/?username=med-aziz1&style=flat&color=4010B0"/> <!-- Profile Views -->
   </p>
+  
 ### 🌐 [My Portfolio](https://med-aziz1.github.io/)
-### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
-</p>
+
 <h3 align="left">📤 Connect with Me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/mohamed-aziz-lassoued-272762270/"> <!-- LinkedIn Profile -->
@@ -23,3 +23,16 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,nodejs,arduino,matlab,cmake,git,firebase,qt,pycharm,vscode,eclipse"/>
 </p>
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=med-aziz1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=med-aziz1&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=med-aziz1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=med-aziz1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
