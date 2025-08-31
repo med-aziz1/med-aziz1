@@ -5,9 +5,8 @@
   <p align="left">
       <img src="https://komarev.com/ghpvc/?username=med-aziz1&style=flat&color=4010B0"/> <!-- Profile Views -->
   </p>
-### [🌐 My Portfolio](https://med-aziz1.github.io/)
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=med-aziz1.med-aziz1&"  />
+### 🌐 [My Portfolio](https://med-aziz1.github.io/)
+
 </p>
 <h3 align="left">📤 Connect with Me:</h3>
 <p align="left">
