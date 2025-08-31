@@ -9,8 +9,6 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=med-aziz1.med-aziz1&"  />
 </p>
-
-###
 <h3 align="left">📤 Connect with Me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/mohamed-aziz-lassoued-272762270/"> <!-- LinkedIn Profile -->
@@ -22,11 +20,7 @@
   <a href="mailto:lassoued10.mohamedaziz@gmail.com"> <!-- Gmail -->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </p>
-
-###
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,nodejs,arduino,matlab,cmake,git,firebase,qt,pycharm,vscode,eclipse&theme=dark&perline=15)](https://skillicons.dev)
 <img src="https://skillicons.dev/icons?i=c,cpp,python,nodejs,arduino,matlab,cmake,git,firebase,qt,pycharm,vscode,eclipse"/>
 </p>
-###
